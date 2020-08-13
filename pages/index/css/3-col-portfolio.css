@@ -1,0 +1,32 @@
+/*!
+ * Start Bootstrap - 3 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background:url(../img/gplaypattern_@2X.png); 
+    width:100%;" 
+    align: center;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+.bttn{
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 0px solid #000000;
+
+	box-shadow: 10px 10px 2px rgba(0,0,0,.5);
+	-moz-box-shadow: 10px 10px 2px rgba(0,0,0,.5);
+	-webkit-box-shadow: 10px 10px 2px rgba(0,0,0,.5);
+}
+
+footer {
+    margin: 50px 0;
+	bottom: 0;
+}
